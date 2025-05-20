@@ -1,0 +1,292 @@
+Alright, here is a draft of a dummy company policy for "ABC Company" specifically designed to test your RAG (Retrieval Augmented Generation) system. This policy contains various sections, specific details, fictional names, and procedures that you can use for queries.
+
+ABC COMPANY POLICY (DUMMY VERSION FOR RAG TESTING)
+
+Effective Date: January 1, 2023  
+Last Revision: December 15, 2023  
+Document Number: ABC/POL/2023/001  
+
+CONTENTS  
+
+Introduction and Purpose of the Policy  
+
+Scope of the Policy  
+
+Code of Ethics and Professional Conduct  
+3.1. Workplace Professionalism  
+3.2. Conflict of Interest  
+3.3. Confidentiality of Information  
+3.4. Anti-Discrimination and Sexual Harassment  
+3.5. Acceptance of Gifts and Entertainment  
+3.6. Use of Company Assets  
+
+Information Technology (IT) Usage Policy  
+4.1. Email and Internet Usage  
+4.2. Password and Data Security  
+4.3. Software Installation  
+4.4. Use of Personal Devices (BYOD)  
+4.5. Social Media  
+
+Leave and Attendance Policy  
+5.1. Annual Leave  
+5.2. Sick Leave  
+5.3. Emergency Leave  
+5.4. Maternity and Paternity Leave  
+5.5. Unpaid Leave  
+5.6. Attendance and Punctuality  
+
+Occupational Health and Safety Policy (OHS)  
+6.1. General Responsibilities  
+6.2. Incident and Accident Reporting  
+6.3. Emergency and Evacuation Procedures  
+6.4. Workplace Ergonomics  
+6.5. Employee Wellness Program "ABC Healthy"  
+
+Personal Data Protection Policy (PDPA)  
+7.1. Compliance with the Personal Data Protection Act 2010 (Act 709)  
+7.2. Collection, Use, and Disclosure of Personal Data  
+7.3. Security of Personal Data  
+7.4. Data Subject Rights  
+7.5. Data Breach Reporting  
+
+Disciplinary Procedures  
+8.1. Types of Misconduct  
+8.2. Investigation Process  
+8.3. Disciplinary Actions  
+
+Employee Grievance Procedure  
+
+Training and Development  
+
+Performance Appraisal  
+
+Policy Review and Amendment  
+
+Acknowledgment of Receipt  
+
+1. INTRODUCTION AND PURPOSE OF THE POLICY  
+
+Welcome to ABC Company. This Company Policy ("Policy") is provided to guide all employees regarding the standards of conduct, operational procedures, and expectations set by ABC Company ("Company"). The primary purpose of this policy is to ensure a harmonious, productive, fair, and safe working environment for all individuals serving the Company. This policy also aims to protect the assets, reputation, and interests of the Company and to ensure compliance with relevant laws and regulations. All employees are expected to read, understand, and fully comply with the contents of this policy. Any questions regarding this policy can be referred to the Human Resources Department (HR). The current Head of Human Resources is Ms. Noraini Binti Kassim.
+
+2. SCOPE OF THE POLICY  
+
+This policy applies to all employees of ABC Company, including permanent, contract, part-time employees, industrial trainees, and consultants who work directly for the Company, at all operational locations of ABC Company, including the headquarters at Menara ABC, Kuala Lumpur, and branches in Penang and Johor Bahru. Exceptions to any part of this policy require written approval from the Chief Executive Officer (CEO), Mr. Ahmad Faizal.
+
+3. CODE OF ETHICS AND PROFESSIONAL CONDUCT  
+
+ABC Company emphasizes the importance of integrity, honesty, and professionalism in all dealings.
+
+**3.1. Workplace Professionalism**  
+Employees are required to always maintain a high level of professionalism. This includes:
+*   Dressing neatly and appropriately according to the company dress code (Formal office attire from Monday to Thursday; Smart casual on Fridays). Jeans are only allowed on Fridays.
+*   Using polite and professional language in all communications, whether verbal or written.
+*   Respecting colleagues, customers, suppliers, and other stakeholders.
+*   Being punctual for meetings and assignments. A delay of more than 15 minutes for official meetings without a valid reason is considered unprofessional.
+
+**3.2. Conflict of Interest**  
+Employees must avoid any situation that may create, or appear to create, a conflict between their personal interests and the interests of the Company.
+*   Any potential conflict of interest must be immediately disclosed in writing to the respective Head of Department and the Human Resources Department using the Conflict of Interest Declaration Form (Form ABC/HR/COI/001).
+*   Examples of conflicts of interest include working for competitors, having a financial interest in a supplier company, or using one's position in the Company for personal gain. Close family members working in the same industry should also be declared if there is a potential conflict.
+
+**3.3. Confidentiality of Information**  
+The Company's confidential information is a critical asset. This includes but is not limited to financial data, business strategies, customer lists, product details, proprietary processes, and employee information.
+*   Employees are not allowed to disclose confidential information to third parties without explicit permission from upper management.
+*   The obligation to maintain confidentiality continues even after an employee's service with the Company has ended. All employees are required to sign a Non-Disclosure Agreement (NDA) upon commencement of employment.
+
+**3.4. Anti-Discrimination and Sexual Harassment**  
+ABC Company is committed to providing a work environment free from discrimination and harassment.
+*   Discrimination based on race, religion, color, gender, sexual orientation, age, disability, or marital status is strictly prohibited.
+*   Sexual harassment in any form (verbal, non-verbal, visual, psychological, or physical) will not be tolerated.
+*   Any complaints regarding discrimination or sexual harassment should be reported to the Human Resources Department or the Company's Integrity Officer, Mr. Lee Wei Chong, immediately. All complaints will be investigated confidentially and fairly. An alternative reporting channel is available via the whistleblowing email whistleblowing@abc.com.my.
+
+**3.5. Acceptance of Gifts and Entertainment**  
+Employees must not solicit or accept gifts, entertainment, or other benefits that may influence, or appear to influence, their business decisions.
+*   Token gifts with a nominal value below RM100 may be accepted but must be declared to the Head of Department.
+*   Any gifts exceeding RM100 must be approved by the Head of Department and the Human Resources Department. Indispensable gifts (for cultural or protocol reasons) exceeding the allowed value will become the property of the Company.
+*   This policy does not prohibit reasonable and customary business entertainment (such as business lunches or dinners), as long as it is not excessive and does not create an obligation.
+
+**3.6. Use of Company Assets**  
+Company assets (e.g., computers, phones, vehicles, office equipment) are provided for official work purposes. Minimal and reasonable personal use may be allowed but must not interfere with work or violate other policies. Any damage or loss of company assets due to employee negligence may require the employee to bear the repair or replacement costs. Company vehicles may only be driven by employees with a valid driver's license and proper authorization. A vehicle usage log must be filled out each time the vehicle is used.
+
+
+4. INFORMATION TECHNOLOGY (IT) USAGE POLICY  
+
+The Company's IT resources are essential for daily operations. Responsible use is mandatory.
+
+**4.1. Email and Internet Usage**  
+*   The Company's email system and internet access are for business purposes. Limited personal use is allowed as long as it does not disrupt productivity, does not use excessive bandwidth (e.g., streaming high-definition videos for non-work purposes), and does not violate any laws or company policies.
+*   It is strictly prohibited to use the Company's IT resources to send or receive pornographic, threatening, defamatory, discriminatory, or illegal materials.
+*   Opening email attachments or clicking links from unknown or suspicious sources is prohibited. Report any phishing emails to the IT Department (helpdesk.it@abc.com.my) immediately.
+
+**4.2. Password and Data Security**  
+*   Employees are responsible for maintaining the confidentiality of their passwords. Passwords must be complex (a minimum of 12 characters, a combination of uppercase letters, lowercase letters, numbers, and symbols) and changed every 90 days.
+*   Do not share your password with anyone, including IT staff (they will not ask for it).
+*   Sensitive company data must not be stored on personal storage devices (e.g., personal USB drives) without proper authorization from the IT Department and appropriate encryption. All work data should be stored on the company server or approved cloud services (e.g., ABCCloud Drive).
+
+**4.3. Software Installation**  
+*   Only software that is approved and licensed by the Company may be installed on Company computers.
+*   Employees are not allowed to  or install software without permission from the IT Department. Requests for new software must be made through the IT portal "TechRequest Portal".
+
+**4.4. Use of Personal Devices (BYOD)**  
+*   ABC Company allows the use of personal devices for work purposes (BYOD) for certain employees, subject to approval and compliance with the Company's BYOD Policy (Document: ABC/IT/BYOD/002).
+*   Personal devices used to access company resources must have updated security software (e.g., anti-virus) and a strong password/PIN. The Company reserves the right to install mobile device management (MDM) software on approved devices.
+
+**4.5. Social Media**  
+*   Employees are free to use social media for personal purposes outside of working hours.
+*   When making statements that may be associated with ABC Company, employees must clarify that their views are personal and not the official views of the Company.
+*   It is prohibited to post confidential company information, defame the company, colleagues, or clients on social media. The Corporate Communications Department, led by Ms. Siti Zulaikha, is responsible for all official company communications on social media.
+
+
+
+
+
+5. LEAVE AND ATTENDANCE POLICY  
+
+The Company values work-life balance and provides competitive leave provisions.
+
+**5.1. Annual Leave**  
+*   Annual leave entitlement is based on the length of service:
+    *   Less than 2 years of service: 14 days per year.
+    *   2 to 5 years of service: 18 days per year.
+    *   More than 5 years of service: 22 days per year.
+*   Applications for annual leave must be made at least seven (7) working days before the leave date through the HR system "PeoplePortal", and are subject to the approval of the Head of Department. For leave exceeding 5 consecutive days, applications must be made 14 days in advance.
+*   Unused annual leave balance may be carried forward to the following year up to a maximum of 5 days, and must be used before March 31 of that year.
+
+**5.2. Sick Leave**  
+*   Employees who are unable to attend work due to illness must inform their respective Head of Department as soon as possible on the first day of absence, no later than 10:00 am.
+*   A medical certificate (MC) from a registered medical practitioner must be submitted to the HR Department as soon as possible upon return to work.
+*   Entitlement to paid sick leave is 14 days per year if hospitalization is not required, and 60 days per year if hospitalization is required (including the 14 days).
+
+**5.3. Emergency Leave**  
+*   Emergency leave (not exceeding 2 days per year) may be granted at the discretion of the Head of Department for unavoidable personal matters (e.g., death of a close family member, natural disasters). Proof may be required.
+
+**5.4. Maternity and Paternity Leave**  
+*   Female employees are entitled to 98 consecutive days of paid maternity leave.
+*   Male employees are entitled to 7 consecutive days of paid paternity leave for each child born (limited to 5 children).
+
+**5.5. Unpaid Leave**  
+*   Applications for unpaid leave may be considered on a case-by-case basis and are subject to the approval of Upper Management. Applications must be made at least one (1) month in advance.
+
+**5.6. Attendance and Punctuality**  
+*   Official office hours are from 9:00 am to 5:30 pm, Monday to Friday, with a one-hour lunch break.
+*   All employees are required to record their attendance using the biometric system "TimeTrack Pro" located at the main lobby and on each office floor.
+*   Repeated lateness without a valid reason may result in disciplinary action.
+
+
+
+
+
+6. OCCUPATIONAL HEALTH AND SAFETY POLICY (OHS)  
+
+ABC Company is committed to providing a safe and healthy work environment.
+
+**6.1. General Responsibilities**  
+*   The Company will take all reasonable steps to ensure the safety and health of employees.
+*   Employees have a responsibility to ensure their own safety and that of their colleagues by complying with all safety procedures and using provided personal protective equipment (PPE) when necessary. The Chief OHS Officer is Mr. Subramaniam Pillai.
+
+**6.2. Incident and Accident Reporting**  
+*   All accidents, injuries, or near-miss incidents at the workplace must be reported immediately to the Head of Department and the OHS Officer using the Incident Report Form (ABC/HS/IRF/003).
+*   The Company will investigate all incidents to identify causes and take corrective action.
+
+**6.3. Emergency and Evacuation Procedures**  
+*   Employees must familiarize themselves with the emergency evacuation plan, the location of fire extinguishers, and first aid kits.
+*   Fire and evacuation drills will be conducted at least twice a year. Participation is mandatory. The emergency assembly point is at ABC Field next to Menara ABC.
+
+**6.4. Workplace Ergonomics**  
+*   The Company will strive to provide ergonomic workstations. Employees are encouraged to adjust their workstations for comfort and proper posture.
+*   Ergonomic assessments can be requested through the HR Department if employees experience discomfort.
+
+**6.5. Employee Wellness Program "ABC Healthy"**  
+*   The Company organizes the "ABC Healthy" program which includes monthly health talks, gym membership subsidies (RM50 per month), and free annual health screenings for employees who have served for more than a year. The program coordinator is Ms. Amelia Tan from the HR Department.
+
+
+
+
+
+7. PERSONAL DATA PROTECTION POLICY (PDPA)  
+
+ABC Company respects privacy and is committed to protecting personal data.
+
+**7.1. Compliance with the Personal Data Protection Act 2010 (Act 709)**  
+The Company will fully comply with the provisions of Act 709 and any related regulations in handling personal data of employees, customers, and other third parties. The appointed Data Protection Officer (DPO) is Ms. Jaspreet Kaur.
+
+**7.2. Collection, Use, and Disclosure of Personal Data**  
+*   Personal data will only be collected for legitimate purposes and relevant to the Company's operations.
+*   Employees will be informed about the purposes of data collection, and consent will be obtained if necessary.
+*   Personal data will not be disclosed to third parties without consent, except as required by law.
+
+**7.3. Security of Personal Data**  
+Appropriate security measures (technical and organizational) will be taken to protect personal data from unauthorized access, use, disclosure, alteration, or destruction. This includes data encryption, access controls, and PDPA awareness training.
+
+**7.4. Data Subject Rights**  
+Individuals have the right to access and correct their personal data held by the Company. Requests can be made in writing to the DPO at dpo@abc.com.my.
+
+**7.5. Data Breach Reporting**  
+Any suspicion or occurrence of personal data breach must be reported immediately to the DPO and the IT Department.
+
+
+
+
+
+8. DISCIPLINARY PROCEDURES  
+
+Disciplinary procedures are aimed at ensuring fairness and consistency in addressing misconduct issues.
+
+**8.1. Types of Misconduct**  
+*   **Minor Misconduct:** For example, occasional lateness, using company assets for minimal personal purposes, minor dress code violations.
+*   **Major Misconduct:** For example, unauthorized absenteeism for more than two (2) consecutive days, insubordination, gross negligence, theft, fraud, breach of confidentiality, harassment, intoxication at the workplace.
+
+**8.2. Investigation Process**  
+*   Upon receipt of a misconduct complaint, an internal investigation will be conducted by the HR Department or an appointed investigation panel.
+*   The accused employee will be given an opportunity to defend themselves (Show Cause Letter).
+*   The investigation will be conducted fairly, confidentially, and without delay.
+
+**8.3. Disciplinary Actions**  
+Depending on the severity of the misconduct, disciplinary actions may include:
+*   Verbal warning
+*   Written warning (First Warning, Second Warning, Final Warning)
+*   Suspension without pay (maximum 2 weeks)
+*   Demotion
+*   Termination of service (Dismissal)
+Records of disciplinary actions will be kept in the employee's personal file.
+
+
+
+
+
+9. EMPLOYEE GRIEVANCE PROCEDURE  
+
+The Company encourages open communication. Employees with any work-related grievances are encouraged to resolve them through the following channels:
+
+Discuss with the Supervisor or Head of Department directly.
+
+If unresolved or inappropriate, refer to the Human Resources Department. The Official Grievance Form (ABC/HR/GRV/004) may be used.
+
+The HR Department will investigate the grievance and seek to find a fair resolution. All grievances will be handled confidentially.
+
+10. TRAINING AND DEVELOPMENT  
+
+ABC Company believes in the continuous development of its employees.
+
+The "ABC Jumpstart" orientation program is provided for all new employees.
+
+Employees are encouraged to attend relevant training courses and workshops to enhance their skills. The Company allocates an annual training budget of RM1,500 for each employee for approved external courses.
+
+Training needs assessment will be conducted annually by the HR Department in collaboration with the Heads of Department. The e-learning platform "ABC Learn" also offers a variety of internal training modules.
+
+11. PERFORMANCE APPRAISAL  
+
+Formal performance appraisals are conducted twice a year (June and December) using the "PerformanceMax" system.
+
+These appraisals aim to measure the achievement of objectives, identify strengths and areas for improvement, and plan career development.
+
+Ongoing feedback between employees and supervisors is highly encouraged throughout the year. Salary increases and annual bonuses ("Outstanding Performance Bonus") are based on the results of the performance appraisal.
+
+12. POLICY REVIEW AND AMENDMENT  
+
+This Company Policy will be reviewed periodically (at least once a year) or as necessary by the Human Resources Department and Upper Management to ensure it remains relevant and compliant with current laws. Any amendments will be communicated to all employees via official email and the company intranet portal "ABC Connect". The latest version of the policy will always be available on "ABC Connect".
+
+13. ACKNOWLEDGMENT OF RECEIPT  
+
+All employees are required to read, understand, and comply with this ABC Company Policy. The Policy Acknowledgment Form (Appendix A) must be signed and returned to the Human Resources Department within seven (7) days of receiving this policy or upon commencement of service. Failure to comply with this policy may result in disciplinary action up to and including termination of service.
+
